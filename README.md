@@ -16,6 +16,7 @@ python firefox-cookie-extractor.py [domain] [profile_name]
 
 ### Examples
 ```bash
+python firefox-cookie-extractor.py
 python firefox-cookie-extractor.py github.com
 python firefox-cookie-extractor.py twitter.com mw5j28sq.default-release-139257892109
 ```
