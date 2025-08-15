@@ -1,6 +1,6 @@
 # 🦊 Firefox Cookie Extractor
 
-Extract cookies from a Firefox profile for a given domain and save them to a text file.
+Extract cookies from a Firefox profile for a given domain and save them to a text file (YouTube by defaul).
 
 This tool is especially useful for extracting cookies from sites like `YouTube`, allowing `third-party applications` to authenticate or access content as if they were logged in via browser.
 
